@@ -2,7 +2,7 @@
 ###### By Nathan Blanchard
 Welcome to the text-based Java implementation of the classic game Minesweeper!
 
-This game was created as a final project for the class `Advanced Programming` at UVM.
+This game was created as a final project for the class `Intermediate Programming` at UVM.
 
 ## Game Rules
 The objective of Minesweeper is to uncover all the cells on the grid without detonating
