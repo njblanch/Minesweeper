@@ -1,6 +1,6 @@
 # Minesweeper
 ###### By Nathan Blanchard
-Welcome to the text-based Java implementation of the classic game Minesweeper!
+Welcome to a text-based Java implementation of the classic game Minesweeper!
 
 This game was created as a final project for the class `Intermediate Programming` at UVM.
 
